@@ -20,4 +20,12 @@ This is a RESTful API for a Social Media Platform, built using **ASP.NET Core** 
 - **JWT (JSON Web Token)** for secure user authentication.
 - **Swagger** for API documentation and testing.
 
+## Screenshots
 
+Here are some screenshots of the project:
+
+![First screen](https://github.com/Mahmoud-Elaaser/SocialMediaAPI/blob/main/Screenshots/1.png)
+---
+![Second screen](https://github.com/Mahmoud-Elaaser/SocialMediaAPI/blob/main/Screenshots/2.png)
+---
+![Third screen](https://github.com/Mahmoud-Elaaser/SocialMediaAPI/blob/main/Screenshots/3.png)
