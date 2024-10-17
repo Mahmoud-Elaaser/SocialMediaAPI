@@ -1,6 +1,6 @@
 # Social Media Platform API
 
-This is a RESTful API for a Social Media Platform, built using **ASP.NET Core** with **C#**, **Entity Framework Core**, and **LINQ**. The API supports essential social media features like user profiles, posts, comments, likes, and follows. It also includes authentication using JWT and integration with Swagger for API documentation.
+A learning project for a RESTful API on a social media platform, built using **ASP.NET Core** with **C#**, **Entity Framework Core**, and **LINQ**. The API supports essential social media features like user profiles, posts, comments, likes, and follows. It also includes authentication using JWT and integration with Swagger for API documentation.
 
 ## Features
 
